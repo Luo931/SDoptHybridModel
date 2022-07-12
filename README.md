@@ -5,4 +5,4 @@ The main packages:
 
 BPTK-Py 1.5.0,Pyomo 6.2.0,Cplex 20.1.0
 
-hourlyData2019.xlsx is the test data.
+hourlyData2019.xlsx is the 100 hours test data.
